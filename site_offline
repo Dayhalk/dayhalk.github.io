@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>Site Unavailable</title>
+</head>
+<body>
+    <h1>Oops! Our site is temporarily down.</h1>
+    <p>Check our status here: <a href="https://status.plex-requests.net">Uptime Status</a></p>
+    <div>::CLOUDFLARE_ERROR_500S_BOX::</div>
+</body>
+</html>
